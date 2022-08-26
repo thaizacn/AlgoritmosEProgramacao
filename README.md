@@ -1,5 +1,4 @@
-# 📖 Algoritmos e Programação
-<center><img src="https://media.giphy.com/media/Q66ZEIpjEQddUOOKGW/giphy.gif" width = "400px"/></center>
+# Algoritmos e Programação
 
 ## 🦜 O que é este repositório?
 Este repositório tem como objetivo armazenar os exercícios realizados ao longo do semestre na disciplina de Algoritmos e Porgramação do curso Análise e Desenvolvimento de Sistemas pela [Belas Artes](https://novo.belasartes.br/analise-e-desenvolvimento-de-sistemas-ead/).
