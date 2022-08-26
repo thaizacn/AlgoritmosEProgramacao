@@ -1,5 +1,5 @@
 # 📖 Algoritmos e Programação
-<center><img src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-bash02_icon-icons.com_50815.png" width = "150px"/></center>
+<center><img src="https://media.giphy.com/media/Q66ZEIpjEQddUOOKGW/giphy.gif" width = "150px"/></center>
 
 ## 🦜 O que é este repositório?
 Este repositório tem como objetivo armazenar os exercícios realizados ao longo do semestre na disciplina de Algoritmos e Porgramação do curso Análise e Desenvolvimento de Sistemas pela [Belas Artes](https://novo.belasartes.br/analise-e-desenvolvimento-de-sistemas-ead/).
