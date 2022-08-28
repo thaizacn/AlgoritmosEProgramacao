@@ -13,6 +13,8 @@ inicio
 
   //Processamento de dados
   Se(A e B e C != 0)
+  Equacao = A + B + C
+  SomaCubo = Equacao ** 3
 
   //Saída dos resultados
   escrever ("O cubo da soma dos números é: " + Resultado);
@@ -26,7 +28,10 @@ TresValores = input("Digite três valores inteiros separados por vírgula: ")
 A, B, C = TresValores.split(",")
 A, B, C = int(A), int(B), int(C)
 
-print(f"O cubo da soma dos números é: ")
+Equacao = A + B + C
+SomaCubo = Equacao ** 3
+
+print(f"O cubo da soma dos números é: {SomaCubo}")
 
 '''
 -------------------------------------------
@@ -46,8 +51,18 @@ inicio
 
 
   //Saída dos resultados
-  escrever ("O cubo da diferença dos números é: " + Resultado);
+  escrever ("O cubo da soma dos números é: " + Resultado);
 
 fim
 -----------------------------------------------
 '''
+
+TresValores = input("Digite três valores inteiros separados por vírgula: ")
+
+A, B, C = TresValores.split(",")
+A, B, C = int(A), int(B), int(C)
+
+Equacao = A - B - C
+DiferencaCubo = Equacao ** 3
+
+print(f"O cubo da soma dos números é: {DiferencaCubo}")
